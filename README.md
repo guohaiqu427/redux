@@ -18,4 +18,4 @@ redux library
 
 ## Redux data flow 
 
-![data-flow](static/data-flow.jpeg)
+![data-flow](Static/data-flow.jpeg)
